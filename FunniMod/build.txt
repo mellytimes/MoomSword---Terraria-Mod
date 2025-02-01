@@ -1,0 +1,4 @@
+displayName = MoomSword With Friends Projectile OP!!!
+author = MellyDevs
+version = 0.1
+icon = icon.png
